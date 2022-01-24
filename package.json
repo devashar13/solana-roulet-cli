@@ -1,0 +1,17 @@
+{
+  "name": "solana-roulet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.32.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0"
+  }
+}
